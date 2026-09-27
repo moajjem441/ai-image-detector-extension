@@ -114,7 +114,7 @@ Real / AI-Generated
 
 The prediction result depends on the quality, diversity, and training data of the model. A confidence percentage represents the model's classification confidence, not a guaranteed determination of whether an image is actually real or AI-generated.
 
-📌 Future Improvements
+📌 Future Improvements 
 Support for drag-and-drop image detection.
 Upload image from local storage.
 Support for more AI image generators.
